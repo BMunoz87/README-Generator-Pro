@@ -62,8 +62,9 @@
 
   ## GitHub
 
-  * [GitHub Repository Link: Sample ](https://github.com/BMunoz87/sample
-  * [GitHub Profile Link: michealjwellis](https://github.com/BMunoz87
+  * [GitHub Repository Link: README Generator Pro
+ ](https://github.com/BMunoz87/README-Generator-Pro)
+  * [GitHub Profile Link: Brian E Munoz](https://github.com/BMunoz87)
 
   ## CONTRIBUTION:
 
